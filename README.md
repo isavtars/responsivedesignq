@@ -21,4 +21,4 @@ fro Mobile Tablet Desktop Screen
 
 ## see the prototype of app
 host on github
-(https://isavtars.github.io/emailcientsweb)
+(https://isavtars.github.io/responsive/#/)
