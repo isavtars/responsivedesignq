@@ -1,7 +1,7 @@
 
 ## Responsive Design Apps
 ## APP type
-ui/ux clone 
+Responsive Design for every Screeen
 fro Mobile Tablet Desktop Screen
 
 
