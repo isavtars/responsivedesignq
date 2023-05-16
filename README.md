@@ -1,16 +1,24 @@
-# responsivedesign
 
-A new Flutter project.
+## Responsive Design Apps
+## APP type
+ui/ux clone 
+fro Mobile Tablet Desktop Screen
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## ui/ux
+![Test Image 4](https://github.com/isavtars/eclients/blob/master/Add%20a%20heading.png)
+
+
+
+
+
+
+## see the prototype of app
+host on github
+(https://isavtars.github.io/emailcientsweb)
